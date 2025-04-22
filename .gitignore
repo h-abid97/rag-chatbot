@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Chroma vector database
+db/chroma_db_with_metadata/
+
+# OS or editor-specific files
+.DS_Store
+*.swp
