@@ -1,7 +1,7 @@
 # 🔎 RAG Chatbot: Retrieval-Augmented Generation with LLaMA 3 via Groq
 
 <p align="center">
-  <img src="/Users/hassan/Documents/Practice/rag-chatbot/media/rag_diagram.png" alt="RAG Diagram" width="100%">
+  <img src="media/rag_diagram.png" alt="RAG Diagram" width="90%">
 </p>
 
 ---
